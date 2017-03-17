@@ -1,8 +1,8 @@
 # sn-dwnldr
 
 THE SECURITY NOW PODCAST DOWNLOADER aka sn-dwnldr  
- Original Author: THEPUNKGEEK aka Radio
- Original GitHub: (thepunkgeet/sn-dwnldr)[https://github.com/thepunkgeek/sn-dwnldr]
+ Original Author: THEPUNKGEEK aka Radio  
+ Original GitHub: (thepunkgeet/sn-dwnldr)[https://github.com/thepunkgeek/sn-dwnldr]  
  Forked Author: ndcooke aka ndcooke  
  Forked Updates:  
  * Changed from Python 2.x to 3.x (mainly just changing print commands).
@@ -21,7 +21,7 @@ THE SECURITY NOW PODCAST DOWNLOADER aka sn-dwnldr
  
  * * *  
  
- Original Author: THEPUNKGEEK aka Radio
+ Original Author: THEPUNKGEEK aka Radio  
  Original Message:  
   
  I wanted to download all the security now episodes because I love this podcast!
