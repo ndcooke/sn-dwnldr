@@ -8,10 +8,10 @@ import http.client
 import time 
 import os.path
 
-
-base_url='http://twit.cachefly.net/audio/sn/'
 save_directory="D:\\SecurityNow\\"
 last_episode=603
+
+base_url='http://twit.cachefly.net/audio/sn/'
 
 def ensure_dir(f):
     d = os.path.dirname(f)
@@ -37,10 +37,6 @@ f.close()
 number=str(i)
 print()
 
-
-
-#---------------------#!--------------------------------------------------------
-print()
 print('-------------------FAIR-WARNING-------------------------------------------------')
 print()
 print('As it progresses the episodes get longer and therefore longer to download.')
@@ -54,7 +50,7 @@ print()
 print('-------------------BEGIN-DOWNLOAD-----------------------------------------------')
 print()
 	
-print('Will start downloading at Episode ' + number)
+print('Will start downloading at: Episode ' + number)
 
 while 10>i:
 	number=str(i)
@@ -70,7 +66,6 @@ while 10>i:
 	print(file_name + ' was downloaded')
 	time.sleep(15) #slows it down so that CacheFly doesn't disconnect you, you can try less time 
 	print('--------------------------------------------------------------------------------')
-	
 
 while i<100:
 	number=str(i)
