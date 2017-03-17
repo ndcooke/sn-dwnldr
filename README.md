@@ -1,8 +1,8 @@
 # sn-dwnldr
 
-THE SECURITY NOW PODCAST DOWNLOADER aka sn-dwnldr
- Forked Author: ndcooke aka ndcooke
- Forked Updates:
+THE SECURITY NOW PODCAST DOWNLOADER aka sn-dwnldr  
+ Forked Author: ndcooke aka ndcooke  
+ Forked Updates:  
  * Changed from Python 2.x to 3.x (mainly just changing print commands).
  * Will backport the updates to Python 2.x just in case with a different file
  name.
