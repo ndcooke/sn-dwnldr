@@ -1,8 +1,18 @@
 # sn-dwnldr
 
 THE SECURITY NOW PODCAST DOWNLOADER aka sn-dwnldr
-
- Author: THEPUNKGEEK aka Radio
+ Forked Author: ndcooke aka ndcooke
+ Forked Updates:
+ * Changed from Python 2.x to 3.x (mainly just changing print commands).
+ * Will backport the updates to Python 2.x just in case with a different file
+ name.
+ * Changed to work better with a Windows file system.
+ * Added a variable for the maximum podcast to download (last_episode)
+ * Will probably add more later.
+ 
+ * * * 
+ 
+ Original Author: THEPUNKGEEK aka Radio
 
  I wanted to download all the security now episodes because I love this podcast!
  This script attempts to do just that...
