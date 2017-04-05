@@ -23,3 +23,9 @@ title1 = xmldoc.find('title')
 # this returns "channel", which is the first element.
 for node in xmldoc:
     print(node)
+
+for parent in xmldoc.getiterator():
+    for child in parent:
+        print(str(parent)+":"+str(child))
+
+
