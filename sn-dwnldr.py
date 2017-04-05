@@ -12,6 +12,7 @@ save_directory="D:\\SecurityNow\\"
 last_episode=605
 
 base_url='http://twit.cachefly.net/audio/sn/'
+xml_url='http://www.leoville.tv/podcasts/sn.xml'
 
 def ensure_dir(f):
     d = os.path.dirname(f)
