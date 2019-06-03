@@ -9,7 +9,7 @@ import time
 import os.path
 
 save_directory="D:\\SecurityNow\\"
-last_episode=605
+last_episode=716
 
 base_url='http://twit.cachefly.net/audio/sn/'
 xml_url='http://www.leoville.tv/podcasts/sn.xml'
