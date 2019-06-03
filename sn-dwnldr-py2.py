@@ -12,7 +12,7 @@ save_directory="D:\\SecurityNow\\"
 #save_directory =  '/home/x/Music/Security-Now/'
 
 # last episode you want to download (check https://www.grc.com/securitynow.htm)
-last_episode=605
+last_episode=716
 
 # base url for downloading podcasts. probably don't need to change this.
 base_url='http://twit.cachefly.net/audio/sn/'
